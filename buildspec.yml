@@ -2,7 +2,7 @@ verson: 0.1
 phases:
   build:
     commands:
-      -echo nothing to do yet
+      - echo nothing to do yet
 artifacts:
   files:
     - index.html
